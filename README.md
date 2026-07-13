@@ -41,6 +41,8 @@ SHARC-Dataset/
 └── images/
     └── Dataset workflow diagrams
 
+---
+
 ## Dataset Generation
 
 SHARC was generated using **IPG CarMaker**, a high-fidelity vehicle and traffic simulation platform widely used in automotive research and development.
