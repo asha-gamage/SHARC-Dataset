@@ -12,6 +12,35 @@ Recent advances in automated driving have led to increasing demand for data-driv
 
 To address these limitations, SHARC provides a large collection of synthetic vehicle trajectories generated under controlled highway driving scenarios with diverse road geometries, including curved highway sections.
 
+## Repository Structure
+
+The repository is organised as follows:
+
+```text
+SHARC-Dataset/
+│
+├── SHARC Generation/
+│   ├── Scenario definitions
+│   ├── IPG CarMaker configuration files
+│   └── Dataset generation scripts
+│
+├── SHARC Dataset/
+│   └── Generated synthetic vehicle trajectory data
+│
+├── SHARC Evaluation/
+│   ├── Evaluation scripts
+│   ├── Performance analysis tools
+│   └── Result visualisation utilities
+│
+├── Trajectory Prediction Models/
+│   ├── CS-LSTM
+│   ├── STDAN
+│   ├── MMnTP
+│   └── Model training and evaluation implementations
+│
+└── images/
+    └── Dataset workflow diagrams
+
 ## Dataset Generation
 
 SHARC was generated using **IPG CarMaker**, a high-fidelity vehicle and traffic simulation platform widely used in automotive research and development.
@@ -95,31 +124,3 @@ SHARC has been evaluated using the following trajectory prediction models:
 
 Please cite the original publications when using these models.
 
-## Repository Structure
-
-The repository is organised as follows:
-
-```text
-SHARC-Dataset/
-│
-├── SHARC Generation/
-│   ├── Scenario definitions
-│   ├── IPG CarMaker configuration files
-│   └── Dataset generation scripts
-│
-├── SHARC Dataset/
-│   └── Generated synthetic vehicle trajectory data
-│
-├── SHARC Evaluation/
-│   ├── Evaluation scripts
-│   ├── Performance analysis tools
-│   └── Result visualisation utilities
-│
-├── Trajectory Prediction Models/
-│   ├── CS-LSTM
-│   ├── STDAN
-│   ├── MMnTP
-│   └── Model training and evaluation implementations
-│
-└── images/
-    └── Dataset workflow diagrams
