@@ -24,7 +24,7 @@ Please cite:
 
 ```bibtex
 
-@misc{ipg\_carmaker,
+@misc{IPG_carmaker,
 
 author       = {{IPG Automotive GmbH}},
 
@@ -56,10 +56,11 @@ SHARC evaluation experiments utilise established deep learning-based trajectory 
 ## 2.1 Convolutional Social LSTM (CS-LSTM)
 
 
+Please cite the original CS-LSTM publication:
 
 ```bibtex
 
-@article{CS\_LSTM,
+@article{CS_LSTM,
 
 author  = {Deo, Nachiket and Trivedi, Mohan M.},
 
@@ -119,6 +120,12 @@ type = {Journal Article}
 
 }
 
+```
+
+
+
+---
+
 ## 2.3 Multi-Modal Neural Trajectory Prediction (MMnTP)
 
 
@@ -141,6 +148,9 @@ year={2023},
 
 publisher={IEEE}
 
+}
+
+```
 
 
 ---
