@@ -4,4 +4,6 @@ A Large Collection of Synthetic Vehicle Trajectory Data on Highway Curves
 
 ## SHARC (Synthetic Highway Automotive Road Curves)
 
-![SHARC Dataset Generation and Evaluation Pipeline](images/preprocessing_pipeline.png)
+<a href="images/preprocessing_pipeline.png">
+  <img src="images/preprocessing_pipeline.png" width="1200">
+</a>
