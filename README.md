@@ -169,7 +169,6 @@ The SHARC dataset supports research in:
 - Simulation-to-real generalisation studies
 - Data-driven automated driving algorithms
 
-```markdown
 ## Benchmark Models
 
 SHARC has been evaluated using the following trajectory prediction models:
