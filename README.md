@@ -4,14 +4,12 @@
 
 **SHARC (Synthetic Highway Automotive Road Curves)** is a large-scale synthetic ego-centric automotive trajectory dataset developed for research into deep learning-based vehicle trajectory prediction for automated driving applications.
 
-![SHARC Dataset Generation and Evaluation Pipeline](images/preprocessing_pipeline.png)
-
 <p align="center">
   <img src="images/preprocessing_pipeline.png" alt="SHARC Dataset Generation and Evaluation Pipeline">
 </p>
 
 <p align="center">
-  <em>Figure 1: Overview of the SHARC dataset generation and evaluation workflow, including scenario definition, IPG CarMaker simulation, trajectory extraction, preprocessing, and trajectory prediction model evaluation.</em>
+  <em>Figure 1: Overview of the SHARC Dataset Generation and Evaluation Workflow, including scenario definition, IPG CarMaker simulation, trajectory extraction, and data preprocessing for trajectory prediction model evaluation.</em>
 </p>
 
 ## Overview
