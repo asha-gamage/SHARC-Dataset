@@ -1,0 +1,13 @@
+name: ngsim
+train: 0.7
+abblation_val: 0.0
+val: 0.1
+test: 0.2
+deploy: 0.0
+image_width: 200
+image_height: 80
+dataset_dir: 'Datasets/Processed_NGSIM/RenderedDataset/' # changed on 30/04/26
+# dataset_dir: 'data/processed_ngsim/RenderedDataset/' changed on 30/04/26
+dataset_ind: '[1,2,3,4,5]'
+map_dirs: 'None'
+map_ind: 'None'
