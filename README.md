@@ -6,6 +6,14 @@
 
 ![SHARC Dataset Generation and Evaluation Pipeline](images/preprocessing_pipeline.png)
 
+<p align="center">
+  <img src="images/preprocessing_pipeline.png" alt="SHARC Dataset Generation and Evaluation Pipeline">
+</p>
+
+<p align="center">
+  <em>Figure 1: Overview of the SHARC dataset generation and evaluation workflow, including scenario definition, IPG CarMaker simulation, trajectory extraction, preprocessing, and trajectory prediction model evaluation.</em>
+</p>
+
 ## Overview
 
 Recent advances in automated driving have led to increasing demand for data-driven trajectory prediction algorithms. However, existing naturalistic driving datasets are often limited by restricted road geometries, limited scenario diversity, and insufficient representation of challenging highway driving conditions such as road curves.
