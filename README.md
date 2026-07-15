@@ -18,6 +18,17 @@ Recent advances in automated driving have led to increasing demand for data-driv
 
 To address these limitations, SHARC provides a large collection of synthetic vehicle trajectories generated under controlled highway driving scenarios with diverse road geometries, including curved highway sections.
 
+## Dataset Availability
+
+The complete SHARC dataset is publicly available through Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21379047.svg)](https://doi.org/10.5281/zenodo.21379047)
+
+Dataset DOI:
+https://doi.org/10.5281/zenodo.21379047
+
+The repository contains the dataset generation scripts, evaluation tools, and supporting resources. The complete trajectory data files are hosted separately on Zenodo due to their size.
+
 ## Repository Structure
 
 The repository is organised as follows:
